@@ -1,0 +1,35 @@
+design a 
+binary number  101
+1*2^0+0*2^1+1*2^2 == 1+0+4 = 5
+
+10101
+1*2^0+0*2^1+1*2^2+0*2^3+1*2^4 == 1+0+4+0+16 = 21
+
+Decending order
+===============
+	-->try implementing the same flowchart 
+by using some other techniques
+
+PrimeNumbers Average
+=====================
+- Identify if a number is prime or not
+- print all the primenumbers in given range
+- finding average 
+
+
+
+2 3 5 7 11
+
+
+7 -->1 7 -->count=2
+
+
+
+
+
+
+
+
+
+
+
